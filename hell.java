@@ -1,9 +1,9 @@
 /**
  * HelloWorld class - A simple program demonstrating Java basics
  */
-class HelloWorld {
+class hell {
     
-    private static final String GREETING = "Hello, World!";
+    private static final String GREETING = "Helllllllllllllllllllllllllllllllllllllllllo, World!";
     
     public static void main(String[] args) {
         printGreeting();
