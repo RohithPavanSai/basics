@@ -3,7 +3,7 @@
  */
 class HelloWorld {
     
-    private static final String GREETING = "Hello, World!";
+    private static final String GREETING = "Helllllllllllllllllllllllllllllllllllllllllo, World!";
     
     public static void main(String[] args) {
         printGreeting();
